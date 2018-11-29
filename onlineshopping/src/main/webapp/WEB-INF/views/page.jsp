@@ -69,7 +69,7 @@ padding-bottom:60px;
 			<div class="container text-center">
 				<h1>Online Store</h1>
 				<p>Smartphones, Computers, Widgets</p>
-			</div>
+			</div> 
 		</div>
 
 		<!-- nav bar -->
